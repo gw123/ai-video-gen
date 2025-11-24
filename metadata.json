@@ -1,0 +1,5 @@
+{
+  "name": "Folktale AI Director",
+  "description": "An AI-powered studio that transforms folktales into short video clips using Gemini 2.5 Flash for asset creation and Veo 3.1 for video generation.",
+  "requestFramePermissions": []
+}
